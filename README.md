@@ -6,6 +6,6 @@
 * [Практика 3](https://github.com/Tigrulya21/Lesson3)
 * [Практика 4](https://github.com/Tigrulya21/Lesson4)
 * [Практика 5](https://github.com/Tigrulya21/Lesson5)
-
+* [Практика 6](https://github.com/Tigrulya21/Lesson6)
 
 
