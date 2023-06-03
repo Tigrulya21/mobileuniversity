@@ -7,6 +7,7 @@
 * [Практика 5](https://github.com/Tigrulya21/Lesson5)
 * [Практика 6](https://github.com/Tigrulya21/Lesson6)
 * [Практика 7](https://github.com/Tigrulya21/Lesson7)
+* [Практика 8](https://github.com/Tigrulya21/Lesson8)
 * [MireaProject](https://github.com/Tigrulya21/MireaProject)
 
 
